@@ -1,0 +1,11 @@
+{
+  "name": "hackathon14",
+  "version": "1.0.0",
+  "description": "Proyecto Hackathon14",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avl.vins",
+  "license": "MIT"
+}
